@@ -1,0 +1,84 @@
+body{
+    background-color: #009C95;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+}
+
+#introduzione h1 {
+font-size: 3rem;
+}
+
+#introduzione p {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 2rem;
+    width: 70%;
+}
+
+#contenuto {
+    margin: auto;
+    background-color: yellow;
+    width: 70%;
+    text-align: center;
+    padding-top: 3px;
+    
+}
+
+#introduzione h1 {
+    font-style: inherit;
+}
+
+#avviso {
+    text-align: center;
+    margin-top: 800px;
+    margin: auto;
+    width: 40%;
+    border: solid black 6px;
+    background-color: rgb(187, 184, 184);
+    border-radius: 50px;
+
+}
+
+.avviso-rosso {
+    color: red;
+}
+
+ol{
+    font-size: 25px;
+    font-style: bold;
+}
+
+.descrizioni-classifica {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.immagini {
+    align-content: center;
+}
+
+ol ::marker {
+    font-size: 5rem;
+    color: red;
+}
+
+#spam {
+    height: 150px;
+    background-color: rgb(168, 238, 234);
+    margin-top: 10%;
+}
+
+#spam h2 {
+    float: left;
+    padding-left: 350px;
+}
+
+#collegamenti-social {
+    float: right;
+    margin-right: 400px;
+}
+
+#collegamento-ig {
+    padding-right: 50px;
+}
